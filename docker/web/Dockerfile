@@ -4,4 +4,4 @@ LABEL maintainer='devcorpio'
 
 RUN npm install redis
 
-ADD example.js /myapp/example.js
+ADD server.js /web/server.js
