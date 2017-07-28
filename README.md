@@ -3,7 +3,7 @@ Playing with docker compose using Redis and Node.js,
 
 based in the book:[Learning Docker](https://www.amazon.es/Learning-Docker-Second-Jeeva-Chelladhurai/dp/1786462923) from the editorial Packt.
 
-##Getting started
+## Getting started
 
 Execute the following commands
 
