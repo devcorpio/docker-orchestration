@@ -5,7 +5,7 @@ based in the book:[Learning Docker](https://www.amazon.es/Learning-Docker-Second
 
 ## Getting started
 
-Execute the following commands
+Execute the following commands from the Docker host:
 
    - docker-compose build
    - docker-compose pull
